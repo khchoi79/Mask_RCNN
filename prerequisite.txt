@@ -1,0 +1,6 @@
+#for pycocotools
+git clone https://github.com/waleedka/coco.git
+cd coco/PythonAPI/
+make && make install
+#install tk
+sudo apt-get install python3-tk
